@@ -1,12 +1,28 @@
 # Instagram Follower Analysis Tool
 
-This tool helps you analyze your Instagram followers and following lists to identify:
+A simple Python tool to analyze your Instagram followers and following lists. This tool helps you identify:
 1. Users who don't follow you back
 2. Users who follow you but you don't follow them
+
+## Features
+- Automatic package installation
+- Easy-to-use command line interface
+- Sorted Excel output files
+- Detailed analysis summary
+- Sample usernames preview
 
 ## Prerequisites
 - Python 3.x
 - Required Python packages (will be installed automatically)
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/instagram-follower-analysis.git
+   cd instagram-follower-analysis
+   ```
+
+2. The script will automatically install required packages when run.
 
 ## How to Use
 
@@ -20,10 +36,10 @@ This tool helps you analyze your Instagram followers and following lists to iden
    - Request download
    - Once ready, download the zip file
    - Extract the zip file
-   - Look for `followers_1.html` and `following.html` files
+   - Look for `followers.html` and `following.html` files
 
 2. Place the HTML files:
-   - Copy both `followers_1.html` and `following.html` files into the same directory as this script
+   - Copy both `followers.html` and `following.html` files into the same directory as this script
    - Rename `followers.html` to `followers_1.html` (if needed)
 
 3. Run the analysis:
@@ -46,4 +62,13 @@ Each Excel file contains:
 The script will automatically install required packages. If you want to install them manually:
 ```bash
 pip install -r requirements.txt
-``` 
+```
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Disclaimer
+This tool is for personal use only. Please respect Instagram's Terms of Service and use this tool responsibly. 

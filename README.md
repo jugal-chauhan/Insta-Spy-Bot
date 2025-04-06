@@ -5,7 +5,7 @@ A simple Python tool to analyze your Instagram followers and following lists. Th
 2. Users who follow you but you don't follow them
 
 ## Features
-- Simple HTML file analysis
+- Automatic package installation
 - Easy-to-use command line interface
 - Sorted Excel output files
 - Detailed analysis summary

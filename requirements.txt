@@ -1,3 +1,7 @@
-numpy==1.18.5
-selenium==3.141.0
-urllib3==1.25.9
+numpy==1.24.4
+selenium==4.18.1
+urllib3==2.2.1
+webdriver-manager==4.0.0
+beautifulsoup4==4.12.3
+pandas==2.2.1
+openpyxl==3.1.2

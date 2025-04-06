@@ -1,4 +1,4 @@
-#!/Users/jugal/Desktop/projects/unfollowed/venv/bin/python
+#!/Users/jugalchauhan/Main/instabot/Insta-Spy-Bot/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
